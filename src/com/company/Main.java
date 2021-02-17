@@ -19,7 +19,7 @@ public class Main {
             if (arr[i] >= arr[iMax]) {
                 iMax = i;
             }
-        }
+        }///dasdsadsadsad
 
         int tmp = arr[iMax];
         arr[iMax] = arr[iMin];
