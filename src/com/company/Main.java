@@ -26,6 +26,6 @@ public class Main {
         arr[iMin] = tmp;
 
         System.out.println(Arrays.toString(arr));
-
+///asdadad
     }
 }
